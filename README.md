@@ -1,5 +1,5 @@
 # User Management Service
-Web service to manage users with CRUD  operations, using Jakarta EE.
+REST service to manage users with CRUD operations, using Jakarta EE.
 
 ### Features
 - Users
